@@ -26,15 +26,15 @@ For example, if the caption is 'The cheetah is the fastest land animal, capable 
 
 Important Guidelines:
 
-Use only English in your text queries.
-Each search string must depict something visual.
-The depictions have to be extremely visually concrete, like rainy street, or cat sleeping.
-'emotional moment' <= BAD, because it doesn't depict something visually.
-'crying child' <= GOOD, because it depicts something visual.
-The list must always contain the most relevant and appropriate query searches.
-['Car', 'Car driving', 'Car racing', 'Car parked'] <= BAD, because it's 4 strings.
-['Fast car'] <= GOOD, because it's 1 string.
-['Un chien', 'une voiture rapide', 'une maison rouge'] <= BAD, because the text query is NOT in English.
+Utilisez uniquement le français dans vos requêtes de texte.
+Chaque chaîne de recherche doit représenter quelque chose de visuel.
+Les représentations doivent être extrêmement concrètes sur le plan visuel, comme une rue pluvieuse ou un chat qui dort.
+'moment émotionnel' <= MAUVAIS, parce qu'il ne représente pas quelque chose visuellement.
+'enfant qui pleure' <= BON, parce qu'il représente quelque chose de visuel.
+La liste doit toujours contenir les recherches les plus pertinentes et les plus appropriées.
+['Voiture', 'Conduite de voiture', 'Course de voiture', 'Voiture garée'] <= MAUVAIS, car il s'agit de 4 chaînes.
+['Voiture rapide'] <= BON, car c'est 1 chaîne.
+['A Dog', 'Fast car', 'Red House'] <= MAUVAIS, car le texte de la requête n'est PAS en français.
 
 Note: Your response should be the response only and no extra text or data.
   """
